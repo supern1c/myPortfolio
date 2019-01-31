@@ -1,0 +1,21 @@
+.jumbotron img{
+	width: 400px;
+}
+
+.about hr{
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+.footer{
+	background-color: red;
+	padding: 1px;
+	margin: 20px;
+	text-align: center;
+	color: #FFF
+}
+
+.news hr{
+	width: 250px;
+	border-top: 3px solid #666;
+}

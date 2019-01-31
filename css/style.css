@@ -1,0 +1,26 @@
+.about hr {
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+.footer {
+	background-color: red;
+	padding: 1px;
+	margin-top: 10px;
+	text-align: center;
+	color: #FFF
+}
+
+.skill hr {
+	width: 250px;
+	border-top: 3px solid #666;
+}
+
+#img {
+	border-radius: 50%;
+	border: 3px solid #242222;
+}
+
+#skul {
+	width: 150px;
+}
